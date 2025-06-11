@@ -1,5 +1,7 @@
 # Air-Ticket-Reservation-System – Microservices Project
 
+## 📌 Overview
+
 A **Air Ticket Reservation System** built using **Spring Boot Microservices**. The system supports two primary roles: **Admin** and **Passenger**. Each role has dedicated services with secure access using **Spring Security**. The system also supports **H2-Database**, **SonarLint** for Code Quality, and uses **JUnit 5**, **Mockito**, and **JaCoCo** for testing and code coverage.
 
 ---
